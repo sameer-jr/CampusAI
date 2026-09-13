@@ -1,0 +1,18 @@
+[
+    {
+        "id": "GENERAL-001",
+        "category": "general",
+        "title": "Demo Campus",
+        "content": "CampusAI is a multilingual AI student support assistant designed for Demo Campus in Sri Lanka. It supports English, Tamil and Sinhala.",
+        "source": "Campus General Information",
+        "keywords": [
+            "campus",
+            "demo campus",
+            "campusai",
+            "languages",
+            "english",
+            "tamil",
+            "sinhala"
+        ]
+    }
+]

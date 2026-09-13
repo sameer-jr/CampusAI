@@ -1,0 +1,33 @@
+[
+    {
+        "id": "COURSE-001",
+        "category": "course",
+        "title": "Network Security",
+        "content": "Network Security classes are held on Monday from 9:00 AM to 12:00 PM in Lab 02. The lecturer is Mr. Fernando.",
+        "source": "Network Security Timetable",
+        "keywords": [
+            "network security",
+            "network security class",
+            "network security timetable",
+            "monday",
+            "lab 02",
+            "mr fernando",
+            "network security வகுப்பு",
+            "network security පන්තිය"
+        ]
+    },
+    {
+        "id": "COURSE-002",
+        "category": "course",
+        "title": "Web Development",
+        "content": "Web Development classes are held on Wednesday from 1:00 PM to 4:00 PM in Computer Lab 01. The lecturer is Ms. Silva.",
+        "source": "Web Development Timetable",
+        "keywords": [
+            "web development",
+            "web development class",
+            "wednesday",
+            "computer lab 01",
+            "ms silva"
+        ]
+    }
+]

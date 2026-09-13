@@ -1,0 +1,28 @@
+[
+    {
+        "id": "CONTACT-001",
+        "category": "contact",
+        "title": "Student Services Contact",
+        "content": "Students can contact Student Services by email at studentservices@example.edu.",
+        "source": "Campus Contact Directory",
+        "keywords": [
+            "student services email",
+            "student services contact",
+            "contact student services",
+            "studentservices@example.edu"
+        ]
+    },
+    {
+        "id": "CONTACT-002",
+        "category": "contact",
+        "title": "IT Support Contact",
+        "content": "Students can contact IT Support by email at itsupport@example.edu.",
+        "source": "Campus Contact Directory",
+        "keywords": [
+            "it support email",
+            "it contact",
+            "contact it support",
+            "itsupport@example.edu"
+        ]
+    }
+]

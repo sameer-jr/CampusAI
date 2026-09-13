@@ -1,0 +1,32 @@
+[
+    {
+        "id": "SERVICE-001",
+        "category": "service",
+        "title": "IT Support",
+        "content": "IT Support is available at the IT Office on the first floor. The office operates Monday to Friday from 9:00 AM to 5:00 PM.",
+        "source": "IT Support Notice",
+        "keywords": [
+            "it support",
+            "computer help",
+            "technical support",
+            "it office",
+            "first floor",
+            "IT உதவி",
+            "IT support எங்கே",
+            "IT support කොහෙද"
+        ]
+    },
+    {
+        "id": "SERVICE-002",
+        "category": "service",
+        "title": "Academic Support",
+        "content": "Academic Support is available through the Student Services Office Monday to Friday from 8:30 AM to 4:30 PM.",
+        "source": "Student Services Guide",
+        "keywords": [
+            "academic support",
+            "student support",
+            "student services",
+            "academic help"
+        ]
+    }
+]

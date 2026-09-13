@@ -1,0 +1,33 @@
+[
+    {
+        "id": "LIB-001",
+        "category": "library",
+        "title": "Library Opening Hours",
+        "content": "The campus library is open Monday to Friday from 8:00 AM to 6:00 PM. On Saturday it is open from 8:00 AM to 1:00 PM. The library is closed on Sunday.",
+        "source": "Library Information Notice",
+        "keywords": [
+            "library",
+            "library hours",
+            "opening hours",
+            "sunday",
+            "saturday",
+            "நூலகம்",
+            "நூலக நேரம்",
+            "පුස්තකාලය"
+        ]
+    },
+    {
+        "id": "LIB-002",
+        "category": "library",
+        "title": "Library Location",
+        "content": "The campus library is located on the ground floor of the Main Academic Building.",
+        "source": "Library Information Notice",
+        "keywords": [
+            "library location",
+            "where is library",
+            "ground floor",
+            "நூலகம் எங்கே",
+            "පුස්තකාලය කොහෙද"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "POLICY-001",
+        "category": "policy",
+        "title": "Assignment Submission",
+        "content": "Students must submit assignments through the LMS before the published assignment deadline.",
+        "source": "Academic Submission Guidelines",
+        "keywords": [
+            "assignment submission",
+            "submit assignment",
+            "late assignment",
+            "lms submission",
+            "submission policy"
+        ]
+    },
+    {
+        "id": "POLICY-002",
+        "category": "policy",
+        "title": "Academic Information Verification",
+        "content": "Students should confirm important academic information with the relevant department when official confirmation is required.",
+        "source": "Student Academic Guide",
+        "keywords": [
+            "verify information",
+            "official confirmation",
+            "academic information"
+        ]
+    }
+]
